@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorganMcmillan
 - 👀 I’m interested in video games and ComputerCraft
-- 🌱 I’m currently learning C++ and design patterns
+- 🌱 I’m currently learning Zig and design patterns
 - 💞️ I’m looking to collaborate on switchcraft
 - 📫 How to reach me: mcmillan.a.morgan@gmail.com
 - 😄 Pronouns: He/Him
