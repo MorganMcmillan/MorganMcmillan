@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on switchcraft
 - 📫 How to reach me: mcmillan.a.morgan@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: AI is evil because it steals art and regurgitates it without consent, which also steals real jobs from people.
+- ⚡ Fun fact: I am totally sane right now.
 
 <!---
 MorganMcmillan/MorganMcmillan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
